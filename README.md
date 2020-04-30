@@ -6,9 +6,9 @@
 
 
 ## Percentage from left to right graph (high pitch on left low pitch on right divided into 288 sections or each pixel of image)
-![Ivan Torrent - THE BOUNDS OF THE UNIVERSE_200](https://user-images.githubusercontent.com/59181775/80721392-72c41200-8afe-11ea-8474-f74cd1ceda25.png)
 
-## Comparing to low pitch
+
+## Comparing to high pitch (brightness)
 ![Nightcore - Day after day_400](https://user-images.githubusercontent.com/59181775/80723726-465dc500-8b01-11ea-81b0-7e13d75c1e5a.png)
 
 ## 26 files proccessed
