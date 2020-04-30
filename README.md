@@ -1,5 +1,5 @@
 
-## Project: converting mel spectogram to "clearer info" to be passed to Artificial Neural Network
+## Project: converting mel spectogram to "clearer and smaller info" to be passed to Artificial Neural Network
 ## Mel Spectogram
 ![Ivan Torrent - THE BOUNDS OF THE UNIVERSE_200](https://user-images.githubusercontent.com/59181775/80721741-dd754d80-8afe-11ea-81c1-1f8cd566c35e.png)
 
