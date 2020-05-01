@@ -5,7 +5,7 @@
 
 
 
-## Percentage decibel array from left to right as graph
+## Percentage decibel array from left to right as graph (left graph being high pitch and right being low pitch)
 ![Malumup - Navras_100](https://user-images.githubusercontent.com/59181775/80723968-8f157e00-8b01-11ea-9cd7-7f7f27274296.png)
 
 ## Comparing to high pitch (brightness)
