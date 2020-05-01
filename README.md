@@ -11,10 +11,3 @@
 ## Comparing to high pitch (brightness)
 ![Nightcore - Day after day_400](https://user-images.githubusercontent.com/59181775/80723726-465dc500-8b01-11ea-81b0-7e13d75c1e5a.png)
 
-## 26 files proccessed
-<img width="864" alt="Screenshot 2020-04-30 at 16 33 46" src="https://user-images.githubusercontent.com/59181775/80723141-87a1a500-8b00-11ea-8079-1d6db749bb0b.png">
-
-<img width="873" alt="Screenshot 2020-04-30 at 16 32 10" src="https://user-images.githubusercontent.com/59181775/80722943-3e515580-8b00-11ea-8e79-aa7bbbf3c10f.png">
-
-<img width="790" alt="Screenshot 2020-04-30 at 16 34 01" src="https://user-images.githubusercontent.com/59181775/80723304-c0da1500-8b00-11ea-87fd-20024be77abe.png">
-
