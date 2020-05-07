@@ -19,7 +19,7 @@ Epoch 1000/1000
 42/42 [==============================] - 0s 163us/step - loss: 0.3876 - accuracy: 0.8274
 
 ## Accuracy on test set (12 objects)
-predicted in percent(0-3)<img width="403" alt="Screenshot 2020-05-07 at 13 22 11" src="https://user-images.githubusercontent.com/59181775/81289125-27fa4b00-9066-11ea-8e4e-22bb5d772ed4.png"> decoded: <img width="101" alt="Screenshot 2020-05-07 at 13 26 49" src="https://user-images.githubusercontent.com/59181775/81289399-a5be5680-9066-11ea-90d0-7a478cd32a91.png"> actual values: 
+<img width="403" alt="Screenshot 2020-05-07 at 13 22 11" src="https://user-images.githubusercontent.com/59181775/81289125-27fa4b00-9066-11ea-8e4e-22bb5d772ed4.png"> decoded: <img width="101" alt="Screenshot 2020-05-07 at 13 26 49" src="https://user-images.githubusercontent.com/59181775/81289399-a5be5680-9066-11ea-90d0-7a478cd32a91.png"> actual values: <img width="99" alt="Screenshot 2020-05-07 at 13 44 15" src="https://user-images.githubusercontent.com/59181775/81290825-051d6600-9069-11ea-9be4-d1242d4e7caa.png"> 
 
 # Result
 50% accuracy
