@@ -24,6 +24,6 @@ Epoch 1000/1000
 
 50% accuracy
 
-## Improvements: more accurate and bigger dataset, better analysis of what makes brightness in music
+## Improvements: more accurate and bigger dataset, better analysis of what makes humans percieve as brightness since db or power might be included
 
 
