@@ -14,6 +14,8 @@
 ## as single array
 <img width="1300" alt="Screenshot 2020-05-07 at 10 57 03" src="https://user-images.githubusercontent.com/59181775/81276342-27a48480-9053-11ea-81d6-f249e1bbb542.png">
 
+## evaluating model on 42 training objects and 12 evaluating objects with 4 categories and 50% accuracy
+
 
 ## Improvements: more accurate and bigger dataset, better analysis of what makes brightness in music
 
