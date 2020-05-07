@@ -19,11 +19,7 @@ Epoch 1000/1000
 42/42 [==============================] - 0s 163us/step - loss: 0.3876 - accuracy: 0.8274
 
 ## Accuracy on test set (12 objects)
-## hotencoded array with index 0-3 being 100-400
-<img width="403" alt="Screenshot 2020-05-07 at 13 22 11" src="https://user-images.githubusercontent.com/59181775/81289125-27fa4b00-9066-11ea-8e4e-22bb5d772ed4.png"> <img width="101" alt="Screenshot 2020-05-07 at 13 26 49" src="https://user-images.githubusercontent.com/59181775/81289399-a5be5680-9066-11ea-90d0-7a478cd32a91.png">
-
-## Highest percent guess 1-4 being 100-400
-
+predicted in percent(0-3)<img width="403" alt="Screenshot 2020-05-07 at 13 22 11" src="https://user-images.githubusercontent.com/59181775/81289125-27fa4b00-9066-11ea-8e4e-22bb5d772ed4.png"> decoded: <img width="101" alt="Screenshot 2020-05-07 at 13 26 49" src="https://user-images.githubusercontent.com/59181775/81289399-a5be5680-9066-11ea-90d0-7a478cd32a91.png"> actual values: 
 
 # Result
 50% accuracy
