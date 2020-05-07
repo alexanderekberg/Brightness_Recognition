@@ -11,19 +11,21 @@
 ## Comparing to high pitch (brightness)
 ![Nightcore - Day after day_400](https://user-images.githubusercontent.com/59181775/80723726-465dc500-8b01-11ea-81b0-7e13d75c1e5a.png)
 
-## as single array
+## As single array
 <img width="1300" alt="Screenshot 2020-05-07 at 10 57 03" src="https://user-images.githubusercontent.com/59181775/81276342-27a48480-9053-11ea-81d6-f249e1bbb542.png">
 
-## accuracy on training (42 objects)
+## Accuracy on training (42 objects)
 Epoch 1000/1000
 42/42 [==============================] - 0s 163us/step - loss: 0.3876 - accuracy: 0.8274
 
-## accuracy on test set (12 objects)
+## Accuracy on test set (12 objects)
+# hotencoded array with index 0-3 being 100-400
 <img width="403" alt="Screenshot 2020-05-07 at 13 22 11" src="https://user-images.githubusercontent.com/59181775/81289125-27fa4b00-9066-11ea-8e4e-22bb5d772ed4.png">
 
-
+# Highest percent guess 1-4 being 100-400
+<img width="101" alt="Screenshot 2020-05-07 at 13 26 49" src="https://user-images.githubusercontent.com/59181775/81289399-a5be5680-9066-11ea-90d0-7a478cd32a91.png">
 50% accuracy
 
-## Improvements: more accurate and bigger dataset, better analysis of what makes humans percieve as brightness since db or power might be included
+## Improvements: more accurate and bigger dataset, better analysis of what makes humans percieve as brightness since db(power) might be included
 
 
