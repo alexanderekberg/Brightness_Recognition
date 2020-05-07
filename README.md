@@ -15,4 +15,6 @@
 <img width="1300" alt="Screenshot 2020-05-07 at 10 57 03" src="https://user-images.githubusercontent.com/59181775/81276342-27a48480-9053-11ea-81d6-f249e1bbb542.png">
 
 
+## Improvements: more accurate and bigger dataset, better analysis of what makes brightness in music
+
 
