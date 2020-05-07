@@ -19,11 +19,10 @@ Epoch 1000/1000
 42/42 [==============================] - 0s 163us/step - loss: 0.3876 - accuracy: 0.8274
 
 ## accuracy on test set (12 objects)
+<img width="403" alt="Screenshot 2020-05-07 at 13 22 11" src="https://user-images.githubusercontent.com/59181775/81289125-27fa4b00-9066-11ea-8e4e-22bb5d772ed4.png">
 
 
-
-
-50% acc
+50% accuracy
 
 ## Improvements: more accurate and bigger dataset, better analysis of what makes brightness in music
 
