@@ -1,6 +1,6 @@
 
-## Project: converting mel spectogram to "clearer and smaller info" to be passed to Artificial Neural Network
-## Mel Spectogram (high pitch on top and low pitch on bottom)
+## Project: converting mel spectogram to "clearer info" to be passed to Artificial Neural Network
+## Mel Spectogram
 ![Ivan Torrent - THE BOUNDS OF THE UNIVERSE_200](https://user-images.githubusercontent.com/59181775/80721741-dd754d80-8afe-11ea-81c1-1f8cd566c35e.png)
 
 
@@ -10,4 +10,8 @@
 
 ## Comparing to high pitch (brightness)
 ![Nightcore - Day after day_400](https://user-images.githubusercontent.com/59181775/80723726-465dc500-8b01-11ea-81b0-7e13d75c1e5a.png)
+
+
+
+
 
