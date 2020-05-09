@@ -1,15 +1,15 @@
 
-# Project: measuring pitch or "brightness" of songs
+# Project: predicting tone / mood of songs with artificial neural network
 
-## Since mel spectograms tend to have an incredible number of different values coinciding it didnt seem like the best option for using for an ANN, much of information is hard to percieve. So i decided to convert spectogram into an array of percent of pitch dividing 22.000hz into 16 sections and counting sum of occurances in spectogram
+## Since mel spectograms tend to have an incredible number of different values coinciding it didnt seem like the best option for using for an ANN or CNN, much of information is hard to percieve. So i decided to convert spectogram into an array of percent of pitch dividing 22.000hz into 16 sections and counting sum of occurances in spectogram (sum of each section / total sum)
 
 ## Mel Spectogram
 ![Ivan Torrent - THE BOUNDS OF THE UNIVERSE_200](https://user-images.githubusercontent.com/59181775/80721741-dd754d80-8afe-11ea-81c1-1f8cd566c35e.png)
 
-## Percentage decibel array (from left high pitch, from right low pitch, value = 100)
+## Percentage decibel graph of array (22000hz on x axis, % on y axis)
 ![Malumup - Navras_100](https://user-images.githubusercontent.com/59181775/80723968-8f157e00-8b01-11ea-9cd7-7f7f27274296.png)
 
-## Percentage decibel array (from left high pitch, from right low pitch, value = 400) 
+## Percentage decibel graph of array (22000hz on x axis, % on y axis)
 ![Nightcore - Day after day_400](https://user-images.githubusercontent.com/59181775/80723726-465dc500-8b01-11ea-81b0-7e13d75c1e5a.png)
 
 ## Single array of 42 mp3 files with 16 pitch sections of song
@@ -26,6 +26,6 @@ Epoch 1000/1000
 # Result
 50% accuracy
 
-# Improvements: more accurate and bigger dataset
+# Improvements: more accurate and bigger dataset, power/db and number of values(calm songs)
 
 
