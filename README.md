@@ -4,7 +4,8 @@
 ## Since mel spectograms tend to have an incredible number of different values coinciding it didnt seem like the best option for using for an ANN or CNN, much of information is hard to percieve. So i decided to convert spectogram into an array of percent of pitch dividing 22.000hz into 16 sections and counting sum of occurances in spectogram (sum of each section / total sum)
 
 ## Mel Spectogram
-![Ivan Torrent - THE BOUNDS OF THE UNIVERSE_200](https://user-images.githubusercontent.com/59181775/80721741-dd754d80-8afe-11ea-81c1-1f8cd566c35e.png)
+![Ivan Torrent - THE BOUNDS OF THE UNIVERSE_200](https://user-images.githubusercontent.com/59181775/80721741-dd754d80-8afe-11ea-81c1-1f8cd566c35e.png) <img width="9" alt="Screenshot 2020-05-09 at 11 50 08" src="https://user-images.githubusercontent.com/59181775/81470610-dda2d680-91eb-11ea-94ce-6e3c90c79fb5.png">
+
 
 ## Percentage decibel graph of array (22000hz on x axis, % on y axis)
 ![Malumup - Navras_100](https://user-images.githubusercontent.com/59181775/80723968-8f157e00-8b01-11ea-9cd7-7f7f27274296.png)
