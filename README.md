@@ -27,6 +27,6 @@ Epoch 1000/1000
 # Result
 50% accuracy
 
-# Improvements: more accurate and bigger dataset, power/db and number of values(calm songs)
+# Improvements: more accurate and bigger dataset, power/db and number of values(calm songs), make a score instead of sections
 
 
